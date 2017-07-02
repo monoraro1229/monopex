@@ -1,22 +1,38 @@
 body{
-    margin: 0%
-    
-}
-#trasnocho
-{
-   background-image:url(img/images/nel.jpg);
-    background-size: cover;
+    margin: 0;
+    background: #333;
+    height: 100%;
     width: 100%;
-    height: 400px;
-    
 }
-#kk ul{
-    
+#m
+{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    margin: 0;
     text-align: center;
-    list-style: none;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: cursive;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+    background-image:url(images/l.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-   
+#m h1{
+    color: firebrick;
+    font-family:cursive;
+}
+#a
+{
+    margin: 0;
+    width: 100%;
+    height: 40%;
+    background-color: whitesmoke;
+}
+#a #animes{
+    image-orientation: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
+}
